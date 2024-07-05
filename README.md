@@ -29,5 +29,5 @@ Aplikasi Go Growth adalah aplikasi pencapaian berbasis Flutter yang memungkinkan
    - Efek animasi dan shimmer untuk pengalaman pengguna yang dinamis.
 
 5. **Autentikasi**
-   - Login default dengan Email: `admin@gmail.com` dan Password: `admin123.'
+   - Login default dengan Email: `admin@gmail.com` dan Password: admin123.
    - Pengguna juga dapat melakukan registrasi untuk membuat akun baru.
