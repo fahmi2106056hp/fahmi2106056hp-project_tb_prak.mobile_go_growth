@@ -1,0 +1,31 @@
+name: achievement_app
+description: Application to track achievements.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  hive: ^2.0.5
+  hive_flutter: ^1.1.0
+  flutter_local_notifications: ^17.2.1
+  fl_chart: ^0.68.0
+  flutter_splash_screen: ^3.0.0
+  google_fonts: ^6.2.0
+  shimmer_animation: ^2.1.0+1
+  animations: ^2.0.11
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^1.1.1
+  build_runner: ^2.0.6
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/background_logo.png 
+    - assets/logo.jpg
